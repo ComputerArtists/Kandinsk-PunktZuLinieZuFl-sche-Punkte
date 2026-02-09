@@ -22,7 +22,7 @@ KI-generierter Code neigt zur reaktiven Korrelation und vertraut Eingaben oft bl
 ## 5. Meldung von Instabilitäten (Vulnerability Disclosure)
 Wenn du eine Stelle findest, an der die „Säule“ bricht (Sicherheitslücke), melde dies diskret:
 1. **Kein öffentliches Issue:** Schütze die Integrität der laufenden Kunstprojekte.
-2. **Kontakt:** [DEINE@EMAIL.DE] oder via GitHub Private Reporting.
+2. **Kontakt:** [ComputerArtist_ThL@proton.me] oder via GitHub Private Reporting.
 3. **Härtetest-Paradoxon:** Eine gefundene Lücke ist eine Erkenntnis über die Grenze der aktuellen Interpolation. Wir beheben sie, um die Struktur zu härten.
 4. **Reaktionszeit:** Wir versuchen, innerhalb von 48 Stunden auf die Meldung zu reagieren und die strukturelle Resonanz wiederherzustellen.
 
