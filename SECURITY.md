@@ -7,13 +7,6 @@ Der hier kuratierte Code dient primär der Erschaffung digitaler Kunstwerke.
 * **Transformation:** Diese Werke sollen auf externen Portalen (z.B. NFT-Marktplätze, digitale Galerien) veröffentlicht und gegebenenfalls kommerziell verwertet werden.
 * **Integrität:** Eine Sicherheitslücke im Code bedeutet eine Instabilität im Kunstwerk. Wer den Code nutzt, um Werte zu generieren, trägt die Verantwortung für das Audit der „Säulen“, auf denen sein Erfolg ruht.
 
-## 2. Unterstützte Versionen
-Wir fokussieren uns auf die Absicherung der aktuellsten Iterationen unserer Experimente.
-
-| Version | Unterstützt          |
-| ------- | -------------------- |
-| Main    | :white_check_mark:   |
-| < 1.0   | :x:                  |
 ## 3. Technische Isolation (Die Resonanz-Kammer)
 Um die „zwanghafte Extrovertiertheit“ von KI-Code zu bändigen und das Hauptsystem vor destruktiven Interferenzen zu schützen, ist die Nutzung von **virtuellen Umgebungen** zwingend erforderlich:
 
