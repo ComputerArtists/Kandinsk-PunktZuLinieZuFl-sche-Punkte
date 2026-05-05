@@ -2,6 +2,12 @@
 // Drücke die Leertaste für eine neue Komposition
 // 's' = speichern
 
+// TSM-Diagnose: Grenz-Resonanz (d_max)
+// Definition: d < maxDist => τ (Resonanzzeit)
+// Die Linie stellt die kausale Verbindung dar, 
+// wenn der Abstand d innerhalb der kritischen Masse liegt.
+// Formel: R(x,y) = { 1 if dist(P1, P2) < τ_max; 0 otherwise }
+
 int numPoints = 180;           // Anzahl Punkte (100–300 schön)
 float maxDistance = 220;       // maximale Verbindungsreichweite
 ArrayList<PVector> points;
